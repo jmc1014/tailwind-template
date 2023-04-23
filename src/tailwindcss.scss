@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+/* Custom */
+@import "/css/button.css";
+   /*
+   @import "../src/scss/site.scss";
+   @import "../src/scss/fonts.scss";
+   @import "../src/scss/custom-form.scss";  
+   @import "../src/scss/headroom.scss";
+   @import "../src/scss/header-menu.scss";
+   @import "../src/scss/boxshadows.scss"; 
+   @import "../src/scss/background.scss"; 
+   @import "../src/scss/glide.scss";*/
+   
+
+@import "tailwindcss/utilities"; 

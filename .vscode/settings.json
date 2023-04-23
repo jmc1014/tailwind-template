@@ -1,0 +1,23 @@
+{ 
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#00b0aa",
+      "activityBar.background": "#00b0aa",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#b900bf",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "commandCenter.border": "#e7e7e799",
+      "sash.hoverBorder": "#00b0aa",
+      "statusBar.background": "#007d79",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#00b0aa",
+      "statusBarItem.remoteBackground": "#007d79",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#007d79",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#007d7999",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "prettier.useEditorConfig": true,
+    "peacock.color": "#007d79"
+}
